@@ -1,0 +1,6 @@
+name: Elo
+author: PrinxIsLeqit
+version: 1.5.0
+api: 2.0.0
+main: elo\Elo
+description: "The Elo API for your needs!"
